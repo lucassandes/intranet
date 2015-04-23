@@ -256,10 +256,11 @@
                         </p>
                     <?php endif; */
                     ?>
+					<div class="clearfix"></div>
                 </div>
 
             <?php  endif; ?>
-
+			
         <?php endwhile; ?>
             <div class="navigation">
 
